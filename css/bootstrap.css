@@ -5725,8 +5725,6 @@ button.close {
 
 .carousel {
   position: relative;
-  /* i did it */
-  height: 630px;
 }
 
 .carousel-inner {
@@ -5810,11 +5808,10 @@ button.close {
 
 .carousel-control {
   position: absolute;
-  top: 40%;
+  top: 0;
   left: 0;
-  bottom: 40%;
-  width: 5%;
-  border-radius: 50%;
+  bottom: 0;
+  width: 15%;
   opacity: 0.5;
   filter: alpha(opacity=50);
   font-size: 20px;

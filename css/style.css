@@ -31,7 +31,6 @@ a {
     outline: none;
     text-decoration: none !important; }
 
-
 p {
   margin-bottom: 1.5em; }
 
@@ -1432,5 +1431,3 @@ body.offcanvas {
 
 .js .animate-box {
   opacity: 0; }
-
-
